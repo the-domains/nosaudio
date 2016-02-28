@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NOS Audio]]></title>
         <description><![CDATA[NOS Audio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.nosaudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 22:12:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 22:13:04 GMT</lastBuildDate>
+        <atom:link href="http://www.nosaudio.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0dd667a1-6cad-4a90-9131-86de9407eecf.png">]]></description>
+            <link>http://www.nosaudio.com/d62ee667-317f-4ce6-89ab-4bbfadeb1857/index.html</link>
+            <guid isPermaLink="false">d62ee667-317f-4ce6-89ab-4bbfadeb1857</guid>
+            <pubDate>Sun, 28 Feb 2016 22:12:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97964949-6acf-418d-ae5e-21a18afb59bc.png">]]></description>
-            <link>undefinedac789f1b-3020-4aa3-a907-dd6ad865acb2/index.html</link>
+            <link>http://www.nosaudio.com/ac789f1b-3020-4aa3-a907-dd6ad865acb2/index.html</link>
             <guid isPermaLink="false">ac789f1b-3020-4aa3-a907-dd6ad865acb2</guid>
             <pubDate>Sun, 28 Feb 2016 22:12:41 GMT</pubDate>
         </item>
