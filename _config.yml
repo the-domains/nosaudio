@@ -1,12 +1,26 @@
+name: nosaudio
+favicon: null
 layout_spectrum: 0.7363051
+typography_spectrum: 0.9357216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  lightness: 0
-  brandStrength: 0.9865735
   brandColors:
     - '#0D0D0D'
     - '#C6C6C6'
     - '#656565'
+  brandStrength: 0.9865735
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.150913
-typography_spectrum: 0.9357216
-name: nosaudio
+purpose: []
