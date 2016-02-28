@@ -2,6 +2,7 @@ name: nosaudio
 favicon: null
 layout_spectrum: 0.7363051
 typography_spectrum: 0.9357216
+title: NOS Audio
 cta:
   domain: null
   bucket: null
